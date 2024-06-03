@@ -63,3 +63,10 @@ JavaScript (`script.js`)
 Contributions are always welcome!
 
 Please fork the repository and submit a pull request for any enhancements or bug fixes.
+## Screenshots
+
+![2024-06-03 (1)](https://github.com/HarshavarthanRbh/PRODIGY_WD_03/assets/171503008/7792a809-bd72-4196-843d-1eb8166af0e7)
+
+
+![2024-06-03 (3)](https://github.com/HarshavarthanRbh/PRODIGY_WD_03/assets/171503008/16de47e9-aa68-40a8-bb5d-9656bbc870a7)
+
